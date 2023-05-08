@@ -933,6 +933,60 @@ button {
 }
 
 
+
+.passwordUser_btn {
+    width: 170px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.passwordUser_btn a {
+    width: 100%;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #000d10;
+    padding: 7px;
+    margin: 10px;
+}
+
+.passwordUser a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
+
+
+.userdatachange_btn {
+    width: 170px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.userdatachange a {
+    width: 100%;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #000d10;
+    padding: 7px;
+    margin: 10px;
+}
+
+.userdatachange a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
+
+
+
+
+
+
+
 .security_btn {
     width: 170px;
     margin: 0 auto;
@@ -980,6 +1034,99 @@ button {
     background-color: #2b2278;
 }
 
+.privacity_btn {
+    width: 220px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.privacity_btn a {
+    width: 100%;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #000d10;
+    padding: 7px;
+    margin: 10px;
+}
+
+.privacity_btn a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
+
+.recomHistory_btn {
+    width: 220px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.recomHistory_btn a {
+    width: 100%;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #000d10;
+    padding: 7px;
+    margin: 10px;
+}
+
+.recomHistory_btn a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
+
+.randomRecom_btn {
+    width: 220px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.randomRecom_btn a {
+    width: 100%;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #000d10;
+    padding: 7px;
+    margin: 10px;
+}
+
+.randomRecom_btn a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
+
+
+.security_btn {
+    width: 220px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.security_btn a {
+    width: 100%;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #000d10;
+    padding: 7px;
+    margin: 10px;
+}
+
+.security_btn a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
+
 
 .signIn {
     width: 170px;
@@ -1005,6 +1152,51 @@ button {
     background-color: #2b2278;
 }
 
+.userpassword_btn {
+    width: 790px;
+    margin: 10;
+    text-align: center;
+}
+
+.userpassword_btn a {
+    width: 790px;
+    float: right;
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #000000;
+    padding: 20px;
+    margin: 5px;
+}
+
+.userpassword_btn a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
+
+.userdatachange_btn {
+    width: 790px;
+    margin: 10;
+    text-align: center;
+}
+
+.userdatachange_btn a {
+    width: 790px;
+    float: right;
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #000000;
+    padding: 20px;
+    margin: 5px;
+}
+
+.userdatachange_btn a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
 
 
 
@@ -1021,7 +1213,7 @@ button {
     font-size: 15px;
     color: #ffffff;
     border-radius: 30px;
-    background-color: #2b2278;
+    background-color: #000000;
     padding: 7px;
     margin: 5px;
 }
@@ -1030,6 +1222,32 @@ button {
     color: #ffffff;
     background-color: #2b2278;
 }
+
+
+.aboutdata_btn {
+    width: 25px;
+    margin: 0 auto;
+    text-align: right;
+}
+
+.aboutdata_btn a {
+    width: 25;
+    float: right;
+    text-align: left;
+    font-size: 15px;
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #000000;
+    padding: 7px;
+    margin: 5px;
+}
+
+.aboutdata_btn a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
+
+
 
 .userlogin_btn {
     width: 100px;
